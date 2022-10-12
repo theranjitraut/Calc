@@ -1,5 +1,5 @@
 # GUI Calculator
-GUI Calculator is a calculator and it is better to call it as a clone of windows calc. It is developed for windows and linux.
+GUI Calculator is a calculator and it is better to call it a clone of windows calc. It is developed for Windows and Linux.
 
 ## Features
 * Responsive
@@ -16,10 +16,5 @@ Python Modules that I used:
 
 ## Bottom Line
 
-This is the initial release of this GUI Calculator. So, I keep improving it and give proper feedback for improving this calculator. 
+This is the initial release of this GUI Calculator. So, I keep improving it and giving proper feedback for improving this calculator. 
 And whatever bugs I find for that I will fix it and deploy it again.
-
-
-
-
-
